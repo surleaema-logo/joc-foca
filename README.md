@@ -9,5 +9,10 @@ sau dacă dispare fișierul **index.html**, codul QR de pe broșură **nu va mai
 
 ---
 
-**Fifi, foca cea flămândă** – joc logopedic gratuit pentru sunetul F.
+**Fifi, foca cea flămândă** – joc logopedic gratuit pentru sunetul F:
+- emiterea sunetului F
+- consolidarea în silabe, logatomi și cuvinte
+- diferențierea sunetului F de sunetele V, S, P
+- automatizarea sunetului F în propoziții
+
 prof. logoped Manuela Surlea
